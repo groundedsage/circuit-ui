@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build:tailwind:dev": "npx tailwindcss -i ./resources/globals.css -o ./resources/public/globals.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3",
+    "tailwindcss-animate": "^1.0.5"
+  }
+}
