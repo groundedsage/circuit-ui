@@ -1,8 +1,18 @@
 # Circuit UI
 
+[electric](https://github.com/hyperfiddle/electric) is an amazing tool for building fast
+
+I want to go faster... In the React space I have seen high praise for [Radix](https://www.radix-ui.com/). I am also a fan of Tailwind. 
+
+[shadcn](https://ui.shadcn.com/) is a newer resource which takes Radix and adds Tailwind. This repository is experiments in what something like this would look like in Electric. So we can build faster whilst also taking into account accessibility. 
+
+
+## Get going
 `yarn` to install
 `yarn build:tailwind:dev` to build styles
 
+
+Below is a continuation of the original starter repo for Electric.
 ```
 $ clj -A:dev -X user/main
 
